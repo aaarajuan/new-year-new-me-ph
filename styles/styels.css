@@ -48,7 +48,7 @@ body{
     gap: 100px;
     justify-content: space-between;
     margin: 60px;
-    padding: 200px;
+    padding: 0px 200px;
     align-items: center;
 }
 
